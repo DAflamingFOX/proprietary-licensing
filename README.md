@@ -7,6 +7,16 @@ This repository serves as a place for me to store and host my personal proprieta
 
 **DO NOT** rely on this work to provide *any* legal protection for you or your own work without consulting your own lawyer. This work is provided as-is and I provide zero guarantees.
 
+## Usage
+
+Just download the files you want to use or...
+
+Just use `curl`:
+```zsh
+❯ curl -o LICENSE https://raw.githubusercontent.com/daflamingfox/proprietary-licensing/main/proprietary-use/LICENSE.md
+```
+
+
 ## License
 This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
